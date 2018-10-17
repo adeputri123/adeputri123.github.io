@@ -1,0 +1,43 @@
+.m .judul{
+    font-size: 50px;
+    font-weight: bold;
+    position: absolute;
+    font-family: caviar dreams;
+    color: white;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 280px;
+}
+.m .papumagambar img{
+    width: 100%;
+        
+}
+.m .papumagambar{
+    margin-top: -50px;
+}
+.m .selengkapnya{
+    display: inline-block;
+    position: absolute;
+    font-family: arial;
+    text-align: center;
+    z-index: 9999px;
+    margin-left: 550px;
+    margin-top: 350px;
+   border: 2px solid white;
+}
+.m .selengkapnya a{
+    text-decoration: none;
+    color: white;}
+    
+.halhal {
+    width: 1180px;
+    font-family: caviar dreams;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;    
+    margin-left: 50px;
+    margin-top: 30px;
+    }
+
+
+
